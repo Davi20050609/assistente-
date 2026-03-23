@@ -1,0 +1,5 @@
+{
+  "name": "Zyrion AI Assistant",
+  "description": "Landing page for Zyrion, a personal AI assistant with voice and chat capabilities, featuring an animated programming terminal and 8 professional KPIs.",
+  "requestFramePermissions": ["microphone"]
+}
